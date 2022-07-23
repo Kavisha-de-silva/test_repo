@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "354742193641",
+    "project_id": "nibm211f",
+    "storage_bucket": "nibm211f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354742193641:android:74e059dd92fa9165d28f78",
+        "android_client_info": {
+          "package_name": "com.example.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354742193641-helb9nqn6e8i70m3jrufbhincs871eun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEa-7LkLgRl3SqxFxpIM5sPkbqBDJy5pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354742193641-helb9nqn6e8i70m3jrufbhincs871eun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
