@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Database">
         <activity
+            android:name=".Employee"
+            android:exported="false" />
+        <activity
             android:name=".customer"
             android:exported="false" />
         <activity
